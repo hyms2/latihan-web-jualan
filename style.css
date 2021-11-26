@@ -85,10 +85,10 @@ body{
     color: rgb(207, 207, 207);
 }
 .instagram{
-    color: white;
+    color: rgb(207, 207, 207);
     font-size: 15px;
 }
 .menulink li:hover{
-font-weight: bold;
-transition: 0.3s ease;
+   font-weight: bold;
+   transition: 0.3s ease;
 }
